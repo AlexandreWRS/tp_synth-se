@@ -35,6 +35,38 @@ Moteur 3D (Unity ou Unreal Engine)
 Logiciel de modélisation 3D (Blender)
 Logiciel audio (Audacity, Adobe Audition)
 Logiciel de montage vidéo (Premiere Pro, DaVinci Resolve)
+## comment réaliser le projet
+### préproduction 
+1. Recherche historique sur les samouraïs et les périodes du Japon médiéval
+2. Définition du concept et des objectifs du projet
+3. Création du scénario et du parcours utilisateur
+4. Réalisation du scénarimage (storyboard)
+5. Choix des technologies (casque VR, moteur 3D, logiciels)
+6. Création du moodboard et de la palette de couleurs
+7. Planification des tâches et du calendrier
+### production 
+1. Modélisation 3D des environnements (village, dojo, château, etc.)
+2. Création des personnages (samouraïs, civils)
+3. Animation des scènes et des personnages
+4. Intégration des environnements dans le moteur 3D
+5. Programmation des déplacements et interactions
+6. Enregistrement des narrations audio
+7. Intégration de la musique traditionnelle japonaise
+### Postproduction
+1. Tests de l’expérience VR
+2. Correction des bugs techniques
+3. Ajustement des animations et des interactions
+4. Optimisation des performances (fluidité, confort VR)
+5. Ajustement de l’audio (volume, synchronisation)
+6. Amélioration du rendu visuel (lumière, ambiance)
+### Opération 
+1. Installation du matériel VR
+2. Configuration de l’espace d’expérience
+3. Ajustements selon les retours
+4 Préparation des consignes de sécurité
+5. Tests avec des utilisateurs
+6. Maintenance et mises à jour du contenu
+7. Accompagnement des utilisateurs lors de l’expérience
 ## Pourquoi ce projet sort du lot:
 1. Rend l’histoire plus vivante et accessible.
 2. Utiliser la réalité virtuelle pour favoriser la compréhension et la mémorisation.
